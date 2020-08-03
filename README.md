@@ -4,8 +4,8 @@
 ## Tasks To Accomplish
 * Nonresponsive Design (Computer/Laptop Screen)
     - [X] Welcome
-    * About
-    * Projects
+    - [X] About
+    - [X] Projects
     * Experiences
     * Hobbies
     * Contact
