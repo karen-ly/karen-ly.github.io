@@ -3,7 +3,7 @@
 
 ## Tasks To Accomplish
 * Nonresponsive Design (Computer/Laptop Screen)
-    * Welcome
+    - [X] Welcome
     * About
     * Projects
     * Experiences
