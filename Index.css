@@ -39,9 +39,13 @@ html, body {
 }
 
 .topnav a:hover {
-	color: rgb(141, 88, 141);
+	color: rgb(184, 156, 184);
 	font-weight: bold;
 }
+
+.topnav a.active {
+	color: rgb(137, 104, 150);
+  }
 
 .topnav .icon {
 	display: none;
