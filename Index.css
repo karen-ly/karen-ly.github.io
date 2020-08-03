@@ -52,11 +52,11 @@ html, body {
 @media screen and (max-width: 600px) {
 	.topnav a:not(:first-child) {display: none;}
 	.topnav a.icon {
-	  float: right;
-	  display: block;
+		float: right;
+		display: block;
 	}
 	.topnav {
-		position: relative;
+		display: relative;
 	}
 }
   
