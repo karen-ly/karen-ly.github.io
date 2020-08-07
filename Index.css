@@ -241,7 +241,7 @@ img {
 
 /* Hobbies */
 
-#hobbies {
+#Hobbies {
 	background-color: rgb(180, 188, 199);
 }
 
@@ -250,6 +250,10 @@ footer {
 	font-family: 'Quicksand';
 	background-color: rgb(180, 188, 199);
 	color: rgb(255, 255, 255);
+}
+
+.title p {
+	padding-top: 25px;
 }
 
 /* Social Media Icons */
