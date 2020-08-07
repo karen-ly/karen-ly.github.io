@@ -130,6 +130,11 @@ a:hover {
 	font-size: 1em;
 }
 
+#header-text {
+	height: 100vh;
+	padding: 20% 25%;
+}
+
 #header-text h1 {
 	font-family: 'Masthina';
 	font-size: 15vh;
@@ -198,7 +203,7 @@ a:hover {
 }
 
 #inner-container3 {
-	padding-top: 5%;
+	padding-top: 10%;
 	padding-bottom: 5%;
 	display: block;
 }
@@ -262,21 +267,21 @@ img {
 	background-color: rgb(180, 188, 199);
 }
 
-footer {
-	text-align: center;
-	font-family: 'Quicksand';
-	background-color: rgb(180, 188, 199);
-	color: rgb(255, 255, 255);
-}
-
 .title p {
 	padding-top: 25px;
 }
 
-/* Social Media Icons */
+/* Social Media Icons / Footer */
 /* Style all font awesome icons */
 #email, #linkedin, #github {
 	color: black;
+}
+
+footer {
+	text-align: center;
+	font-family: 'Quicksand';
+	background-color: white;
+	color:#a9b0cb;
 }
 
 .fa {
@@ -286,7 +291,7 @@ footer {
 	width: 50px;
 	text-align: center;
 	text-decoration: none;
-	color: white;
+	color: #a9b0cb;
   }
   
   /* Add a hover effect if you want */
