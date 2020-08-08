@@ -99,7 +99,7 @@ a:hover {
 }
 /*-----Welcome Header---*/
 .first {
-	background-image: url("computerbackground.jpg") no-repeat center center fixed;
+	background-image: url("computerbackground.jpg");
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
