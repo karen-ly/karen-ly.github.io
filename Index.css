@@ -107,7 +107,7 @@ a:hover {
 	padding: 10%;
 }
 
-@media (max-width: 1900px) {
+@media (max-width: 900px) {
 	.first {
 		background-image: none;
 		background-color: white;
