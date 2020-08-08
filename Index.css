@@ -107,6 +107,14 @@ a:hover {
 	padding: 10%;
 }
 
+@media (max-width: 1900px) {
+	.first {
+		background-image: none;
+		background-color: white;
+	}
+
+}
+
 .small-container {
 	display: flex;
 	align-items: center;
