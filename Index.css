@@ -111,6 +111,7 @@ a:hover {
 	.first {
 		background-image: none;
 		background-color: white;
+		border-bottom: solid 1px black;
 	}
 
 }
