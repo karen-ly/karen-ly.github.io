@@ -150,6 +150,18 @@ a:hover {
 	font-family: 'Quicksand';
 	padding-top: 3%;
 }
+
+@media screen and (max-width: 992px) {
+	.first {
+		background-image: none;
+		background-color: rgb(180, 188, 199);
+	}
+	#header-text h1 {
+		color: white;
+		font-size: 50px;
+	}
+
+  }
 /*-----About Me---*/
 
 .inner-container2 {
