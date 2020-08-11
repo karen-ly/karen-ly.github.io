@@ -17,7 +17,7 @@
     * Responsive experiences
     * Responsive hobbies
     * Responsive monthly quote
-    [X] Responsive footer
+    - [X] Responsive footer
     
 
 
