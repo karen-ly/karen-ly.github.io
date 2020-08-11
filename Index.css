@@ -273,7 +273,7 @@ img {
 }
 
 #button2 {
-	border: solid 1px rgb(180, 188, 199);
+	border: solid 1pPx rgb(180, 188, 199);
 }
 
 /* Hobbies */
@@ -285,6 +285,14 @@ img {
 .title p {
 	padding-top: 25px;
 }
+
+/* Responsive Projects, Experiences and Hobbies */
+@media screen and (max-width: 992px) {	
+	.row {
+		display: block;
+	}
+
+  }
 
 /* Social Media Icons / Footer */
 /* Style all font awesome icons */
