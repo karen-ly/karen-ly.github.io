@@ -11,6 +11,13 @@
     - [X] Monthly Quote
     - [X] Footer w/ social media icons
 * Responsive Design
-    - [X] CHANGE: Updated nav bar to shrink for smaller screens
+    - [X] Updated nav bar to shrink for smaller screens
+    * Responsive home
+    * Responsive about
+    * Responsive experiences
+    * Responsive hobbies
+    * Responsive monthly quote
+    [X] Responsive footer
+    
 
 
