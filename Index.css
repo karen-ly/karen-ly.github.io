@@ -297,6 +297,7 @@ img {
 	}
 	.col {
 		width: 100%;
+		margin: 10px 0px;
 	}
 	#e1, #e2, #e3 {
 		width: 100%;
