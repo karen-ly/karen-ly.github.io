@@ -288,6 +288,10 @@ img {
 
 /* Responsive Projects, Experiences and Hobbies */
 @media screen and (max-width: 992px) {	
+	.small-container {
+		display: block;
+		text-align: center;
+	}
 	.row {
 		display: block;
 	}
@@ -296,6 +300,9 @@ img {
 	}
 	#e1, #e2, #e3 {
 		width: 100%;
+	}
+	#img2 {
+		max-width: 100%;
 	}
 
   }
