@@ -145,6 +145,7 @@ a:hover {
 	width: 100%;
 	font-family: 'Quicksand';
 	padding-top: 3%;
+	font-weight: 100px;
 }
 
 @media screen and (max-width: 992px) {
