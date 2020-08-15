@@ -12,12 +12,13 @@
     - [X] Footer w/ social media icons
 * Responsive Design
     - [X] Updated nav bar to shrink for smaller screens
-    * Responsive home
-    * Responsive about
-    * Responsive experiences
-    * Responsive hobbies
-    * Responsive monthly quote
+    - [X] Responsive home
+    - [X] Responsive about
+    - [X] Responsive experiences
+    - [X] Responsive hobbies
+    - [X] Responsive monthly quote
     - [X] Responsive footer
+    - Better Nav Bar
     
 
 
